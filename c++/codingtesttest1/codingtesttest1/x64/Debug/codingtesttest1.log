@@ -1,0 +1,3 @@
+﻿  codingtesttest1.cpp
+C:\Users\temp\source\repos\codingtesttest1\codingtesttest1\codingtesttest1.cpp(51,18): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  codingtesttest1.vcxproj -> C:\Users\temp\source\repos\codingtesttest1\x64\Debug\codingtesttest1.exe
